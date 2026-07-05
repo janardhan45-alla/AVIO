@@ -1,0 +1,6 @@
+{
+  "name": "AIVO",
+  "description": "An offline-first emergency first-aid assistant fully bilingual in English and Telugu.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
