@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="Images/banner.png" alt="AIVO Banner" width="100%">
+</p>
+
 # 🩺 AIVO - AI-Powered Emergency First Aid Assistant
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Gemini](https://img.shields.io/badge/Gemini-AI-blueviolet?style=for-the-badge)
 
 An AI-powered emergency first aid assistant developed during a hackathon to provide quick, reliable, and accessible first-aid guidance. Designed with an offline-first approach, AIVO helps users respond to emergencies through interactive guidance, voice-assisted reporting, medication scanning, and multilingual support.
 
@@ -16,6 +25,19 @@ An AI-powered emergency first aid assistant developed during a hackathon to prov
 - 📱 Simple and intuitive user interface
 
 ---
+## 📸 Application Preview
+
+| Dashboard | Voice Assistant |
+|-----------|-----------------|
+| ![](Images/dashboard.png) | ![](Images/voice.png) |
+
+| Body Map | Medication Scanner |
+|----------|--------------------|
+| ![](Images/bodymap.png) | ![](Images/medication.png) |
+
+| Emergency Protocol | Medical Profile |
+|-------------------|-----------------|
+| ![](Images/protocol.png) | ![](Images/profile.png) |
 
 ## 🛠️ Tech Stack
 
@@ -120,6 +142,11 @@ This project was developed by:
 This project was built as part of a hackathon with the objective of leveraging Artificial Intelligence to create practical healthcare solutions that can assist people during emergency situations.
 
 ---
+## 🏗️ System Architecture
+
+<p align="center">
+<img src="Images/architecture_diagram.png" width="100%">
+</p>
 
 ## 📜 License
 
